@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Images/background.jpg</file>
+        <file>Images/backlogin.jpg</file>
+        <file>Images/chef1.png</file>
+        <file>Images/chef2.png</file>
+        <file>Images/customer.png</file>
+        <file>Images/food0.png</file>
+        <file>Images/food1.png</file>
+        <file>Images/food2.png</file>
+        <file>Images/food3.png</file>
+        <file>Images/food4.png</file>
+        <file>Images/food5.png</file>
+        <file>Images/food6.png</file>
+        <file>Images/food7.png</file>
+        <file>Images/food8.png</file>
+        <file>Images/food9.png</file>
+        <file>Images/janitor.png</file>
+        <file>Images/table.png</file>
+        <file>Images/chef3.png</file>
+        <file>Images/chef4.png</file>
+        <file>Images/janitor2.png</file>
+        <file>Images/waiter1.png</file>
+        <file>Images/waiter2.png</file>
+        <file>Images/waiter3.png</file>
+    </qresource>
+    <qresource prefix="/txt"/>
+    <qresource prefix="/">
+        <file>LogRestaurant</file>
+    </qresource>
+</RCC>
